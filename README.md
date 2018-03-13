@@ -6,4 +6,4 @@ Please refer to “Requirements” and to the “Article” to learn more about 
 </p>
 <h2> Demonstrative video</h2>
 
-[![Watch the video](https://img.youtube.com/vi/kcr6KDLEy64/hqdefault.jpg)](https://youtu.be/kcr6KDLEy64)
+[![Watch the video](https://j.gifs.com/xv5xjr.gif)](https://youtu.be/kcr6KDLEy64)
